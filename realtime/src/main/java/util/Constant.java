@@ -11,4 +11,6 @@ public class Constant {
     public static final String TOPIC_ODS_DB = "ods_db";
     public static final String TOPIC_ODS_LOG = "ods_log";
 
+    public static final String PHOENIX_DRIVER = "org.apache.phoenix.jdbc.PhoenixDriver";
+    public static final String PHOENIX_URL = "jdbc:phoenix:Server1,Server2,Server3:2181";
 }
